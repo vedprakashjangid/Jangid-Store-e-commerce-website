@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jangid-Store-e-commerce-website/static/css/main.eb37f38c.css",
+    "main.js": "/Jangid-Store-e-commerce-website/static/js/main.a7635709.js",
+    "static/js/787.85614a1b.chunk.js": "/Jangid-Store-e-commerce-website/static/js/787.85614a1b.chunk.js",
+    "index.html": "/Jangid-Store-e-commerce-website/index.html",
+    "main.eb37f38c.css.map": "/Jangid-Store-e-commerce-website/static/css/main.eb37f38c.css.map",
+    "main.a7635709.js.map": "/Jangid-Store-e-commerce-website/static/js/main.a7635709.js.map",
+    "787.85614a1b.chunk.js.map": "/Jangid-Store-e-commerce-website/static/js/787.85614a1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb37f38c.css",
+    "static/js/main.a7635709.js"
+  ]
+}
