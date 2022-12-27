@@ -1,0 +1,62 @@
+.service_container{
+    width: 1200px;
+    height: 240px;
+    background-color: rgba(187, 177, 158, 0.453);
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.left_service, .middle_service, .right_service{
+    text-align: center;
+    background-color: rgb(234, 240, 240);
+    border-radius: 20px;
+    
+}
+.middle_service{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    gap: px;
+}
+.middle_service .top{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(234, 240, 240);
+    padding: 10px;
+
+    border-radius: 8px;
+}
+.middle_service .bottom{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(234, 240, 240);
+
+    padding: 10px;
+    border-radius: 8px;
+
+
+}
+.icon{
+    font-size: 24px;
+    color: rgb(114, 123, 254);
+    background-color: white;
+    padding: 14px;
+    border-radius: 50%;
+}
+
+.left_service,.right_service{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap:10px
+}
+.icon_detail{
+    font-size: 18px;
+    color:rgb(74, 74, 74);
+}
